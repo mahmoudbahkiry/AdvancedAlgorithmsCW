@@ -1,0 +1,91 @@
+Array Type,Array Size,Bubble,Selection,Insertion,Heap
+Random,1,0,0,0,0
+Random,2,1,1,1,1
+Random,3,3,3,3,3
+Random,4,6,6,5,6
+Random,5,10,10,9,12
+Random,6,15,15,11,16
+Random,7,21,21,15,21
+Random,8,28,28,26,22
+Random,9,36,36,22,33
+Random,10,45,45,28,40
+Random,11,55,55,30,45
+Random,12,66,66,41,50
+Random,13,78,78,52,59
+Random,14,91,91,48,64
+Random,15,105,105,67,72
+Random,16,120,120,74,81
+Random,17,136,136,72,94
+Random,18,153,153,111,95
+Random,19,171,171,83,104
+Random,20,190,190,97,120
+Random,21,210,210,104,124
+Random,22,231,231,127,131
+Random,23,253,253,175,137
+Random,24,276,276,122,151
+Random,25,300,300,175,158
+Random,26,325,325,159,170
+Random,27,351,351,223,183
+Random,28,378,378,219,185
+Random,29,406,406,202,195
+Random,30,435,435,223,203
+Sorted,1,0,0,0,0
+Sorted,2,1,1,1,1
+Sorted,3,3,3,2,3
+Sorted,4,6,6,3,7
+Sorted,5,10,10,4,12
+Sorted,6,15,15,5,16
+Sorted,7,21,21,6,21
+Sorted,8,28,28,7,27
+Sorted,9,36,36,8,35
+Sorted,10,45,45,9,41
+Sorted,11,55,55,10,49
+Sorted,12,66,66,11,55
+Sorted,13,78,78,12,63
+Sorted,14,91,91,13,69
+Sorted,15,105,105,14,77
+Sorted,16,120,120,15,85
+Sorted,17,136,136,16,95
+Sorted,18,153,153,17,103
+Sorted,19,171,171,18,113
+Sorted,20,190,190,19,121
+Sorted,21,210,210,20,131
+Sorted,22,231,231,21,139
+Sorted,23,253,253,22,149
+Sorted,24,276,276,23,157
+Sorted,25,300,300,24,167
+Sorted,26,325,325,25,175
+Sorted,27,351,351,26,185
+Sorted,28,378,378,27,193
+Sorted,29,406,406,28,203
+Sorted,30,435,435,29,211
+Inversely Sorted,1,0,0,0,0
+Inversely Sorted,2,1,1,1,1
+Inversely Sorted,3,3,3,3,3
+Inversely Sorted,4,6,6,6,6
+Inversely Sorted,5,10,10,10,10
+Inversely Sorted,6,15,15,15,14
+Inversely Sorted,7,21,21,21,18
+Inversely Sorted,8,28,28,28,24
+Inversely Sorted,9,36,36,36,30
+Inversely Sorted,10,45,45,45,35
+Inversely Sorted,11,55,55,55,39
+Inversely Sorted,12,66,66,66,47
+Inversely Sorted,13,78,78,78,55
+Inversely Sorted,14,91,91,91,61
+Inversely Sorted,15,105,105,105,66
+Inversely Sorted,16,120,120,120,72
+Inversely Sorted,17,136,136,136,79
+Inversely Sorted,18,153,153,153,87
+Inversely Sorted,19,171,171,171,99
+Inversely Sorted,20,190,190,190,105
+Inversely Sorted,21,210,210,210,111
+Inversely Sorted,22,231,231,231,118
+Inversely Sorted,23,253,253,253,130
+Inversely Sorted,24,276,276,276,137
+Inversely Sorted,25,300,300,300,143
+Inversely Sorted,26,325,325,325,150
+Inversely Sorted,27,351,351,351,161
+Inversely Sorted,28,378,378,378,171
+Inversely Sorted,29,406,406,406,176
+Inversely Sorted,30,435,435,435,188
